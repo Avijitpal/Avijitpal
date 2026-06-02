@@ -71,15 +71,6 @@
 </div>
 
 ---
-````
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Avijitpal&theme=dracula&no-frame=true&row=1&column=6" alt="trophies"/>
-
-</div>
-````
 ---
 
 ## 🐍 Contribution Snake
