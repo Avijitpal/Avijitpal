@@ -8,15 +8,15 @@
 
 <p>
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://www.linkedin.com/in/avijit-pal-7640ab1a1/"/>
 </a>
 
 <a href="YOUR_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://github.com/Avijitpal"/>
 </a>
 
 <a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome"/>
+<img src="http://portfolio-tau-dun-gnnhaw3dmc.vercel.app/"/>
 </a>
 
 </p>
