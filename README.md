@@ -154,14 +154,31 @@ React + Node.js
 
 # 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<!-- Stats card – public contributions only (no token required) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avijitpal&show_icons=true&theme=tokyonight"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avijitpal&layout=compact&theme=tokyonight"/>
 
 </div>
 
+<div align="center">
+
+<!-- Streak stats – works without token -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avijitpal&theme=tokyonight"/>
+
+</div>
+
+<!-- Contribution graph – shows public activity -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avijitpal&theme=tokyo-night"/>
+
+<!-- Snake animation – works after GitHub Action runs -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/Avijitpal/Avijitpal/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 ---
 
 <div align="center">
