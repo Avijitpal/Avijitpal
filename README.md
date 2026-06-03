@@ -7,16 +7,16 @@
 ### 4+ Years Enterprise Infrastructure Experience | Building Scalable Web Applications
 
 <p>
-<a href="YOUR_LINKEDIN">
-<img src="https://www.linkedin.com/in/avijit-pal-7640ab1a1/"/>
+<a href="https://www.linkedin.com/in/avijit-pal-7640ab1a1/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_GITHUB">
-<img src="https://github.com/Avijitpal"/>
+<a href="https://github.com/Avijitpal/Avijitpal/blob/master/README.md">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="http://portfolio-tau-dun-gnnhaw3dmc.vercel.app/"/>
+<a href="https://portfolio-tau-dun-gnnhaw3dmc.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome"/>
 </a>
 
 </p>
