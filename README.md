@@ -112,21 +112,23 @@ Responsive developer portfolio with dynamic project listing, a working contact f
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avijitpal&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avijitpal&show_icons=true&theme=github_dark&hide_border=true&icon_color=ffc107&title_color=ffc107"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avijitpal&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avijitpal&layout=compact&theme=github_dark&hide_border=true&title_color=ffc107"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avijitpal&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avijitpal&theme=highcontrast&hide_border=true&fire=ffc107&ring=ffc107&currStreakLabel=ffc107"/>
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avijitpal&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avijitpal&theme=highcontrast&hide_border=true&color=ffc107&line=ffc107&point=ffffff&area=true"/>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Avijitpal/Avijitpal/output/github-contribution-grid-snake-dark.svg"/>
