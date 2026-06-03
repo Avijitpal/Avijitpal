@@ -1,32 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Welcome%20to%20Avijit's%20Github&fontSize=45&fontColor=ffffff&fontAlignY=50" width="100%"/>
-</div>
 
----
-
-<div align="center">
-  <h3>🔗 Connect with me</h3>
-
-  <a href="https://linkedin.com/in/avijit-pal-7640ab1a1" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&border=true" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://github.com/Avijitpal" target="_blank"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://twitter.com/Avijitpal174632" target="_blank"><img src="https://img.shields.io/badge/TWITTER-0d1117?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</div>
-
----
-
-<div align="center">
-
-## About me
-
-Hello, I'm **Avijit Pal** — a Full-Stack Engineer focused on building clean, scalable, and modern web applications. 
-I value performance optimization, elegant system design, and long-term maintainability over hype.
-
-**Full-Stack Developer**
-**React / Node.js / Express / MongoDB**
-**Modern Backend Architecture & Clean Database Modeling**
-**Strong Problem-Solving & AI-Integration Mindset**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C9FF&height=200&section=header&text=Avijit%20Pal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Software%20Engineer&descAlignY=58&descSize=20&descColor=d0eaff" width="100%"/>
 
 </div>
 
@@ -34,24 +8,129 @@ I value performance optimization, elegant system design, and long-term maintaina
 
 <div align="center">
 
-## Technologies
+### 👋 Hi, I'm **Avijit Pal**
 
-### Core Technologies
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=html5&logoColor=8b949e" /> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat&logo=css3&logoColor=8b949e" /> &nbsp;
-<img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=flat&logo=javascript&logoColor=8b949e" /> &nbsp;
-<img src="https://img.shields.io/badge/MONGODB-0d1117?style=flat&logo=mongodb&logoColor=8b949e" /> &nbsp;
-<img src="https://img.shields.io/badge/GITHUB-0d1117?style=flat&logo=github&logoColor=8b949e" />
+**I build scalable web applications, design efficient systems, and love solving complex programmatic challenges.**
 
-### Frameworks & Libraries
-<img src="https://img.shields.io/badge/REACT-0d1117?style=flat&logo=react&logoColor=8b949e" /> &nbsp;
-<img src="https://img.shields.io/badge/NODE.JS-0d1117?style=flat&logo=node.js&logoColor=8b949e" /> &nbsp;
-<img src="https://img.shields.io/badge/EXPRESS-0d1117?style=flat&logo=express&logoColor=8b949e" /> &nbsp;
-<img src="https://img.shields.io/badge/REDUX-0d1117?style=flat&logo=redux&logoColor=8b949e" /> &nbsp;
-<img src="https://img.shields.io/badge/TAILWIND%20CSS-0d1117?style=flat&logo=tailwindcss&logoColor=8b949e" />
+[![Twitter](https://img.shields.io/badge/@Avijitpal174632-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Avijitpal174632)
+[![LinkedIn](https://img.shields.io/badge/avijit--pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avijit-pal-7640ab1a1)
+[![GitHub](https://img.shields.io/badge/Avijitpal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avijitpal)
 
-### System & Deployments
-Experienced in system scaling, secure multi-platform deployments using **Vercel** and **Render**, environment variable isolation, and robust **RESTful API** configurations.
+</div>
+
+---
+
+## 🚀 About Me
+
+```
+🖥️  Focus       →  Full-stack development using the MERN stack
+🧠  Interests   →  System design, architecture, performance & AI integration
+⚡  Current     →  Intelligent apps, interview tooling & financial web interfaces
+🏢  Company     →  TCS
+```
+
+---
+
+## 🛠️ My Tech Stack
+
+### 🎨 Frontend & UI
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧰 Tools & Hardware
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avijitpal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avijitpal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Avijitpal&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Avijitpal&theme=dracula&no-frame=true&row=1&column=6" alt="trophies"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+> ⚠️ **Setup required:** The snake animation needs a GitHub Action to generate it.
+> Follow the steps below to enable it, then replace this section with the working image.
+
+**Step 1 — Create this file in your repo:** `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Avijitpal
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 2 — After the Action runs once**, replace the block above with:
+
+```markdown
+![snake gif](https://raw.githubusercontent.com/Avijitpal/Avijitpal/output/github-contribution-grid-snake-dark.svg)
+```
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avijitpal&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -59,36 +138,10 @@ Experienced in system scaling, secure multi-platform deployments using **Vercel*
 
 <div align="center">
 
-## Featured Implementations
+### 💬 *"I solve problems."*
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Avijitpal&color=6A11CB&style=for-the-badge&label=PROFILE+VIEWS)
 
-### 🧠 AI-Powered Technical Interview Coach
-* **Architecture:** Designed a resilient database schema to persist comprehensive technical session history. Optimized upstream API calls to ensure highly fluid, low-latency evaluation feedback.
-* **Stack:** `React.js` • `Node.js` • `Express.js` • `MongoDB`
-* **Links:** [Repository](https://github.com/Avijitpal)
-
-### 📊 Automated ATS Analytics Engine
-* **Architecture:** Implemented rigid cross-origin resource sharing (CORS) rules and absolute environment isolation for secure runtime production.
-* **Stack:** `Node.js` • `Express.js` • `React.js` • `REST Architecture`
-* **Links:** [Repository](https://github.com/Avijitpal)
-
----
-
-<div align="center">
-
-## Statistics
-
-### Avijit's GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Avijitpal&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" height="160px"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avijitpal&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="160px"/>
-
-<br />
-
-### 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avijitpal&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&title=ffffff&stroke=0d1117&currStreakNum=ffffff" alt="Avijit's Streak Stats" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:2575FC,100:6A11CB&height=120&section=footer" width="100%"/>
 
 </div>
