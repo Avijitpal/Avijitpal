@@ -1,164 +1,36 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,50:2575FC,100:00C6FF&text=Avijit%20Pal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-# Software Engineer | MERN Stack Developer | Distributed Systems Enthusiast
-
-### 4+ Years Enterprise Infrastructure Experience | Building Scalable Web Applications
-
-<p>
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Welcome%20to%20Avijit's%20Github&fontSize=45&fontColor=ffffff&fontAlignY=50" width="100%"/>
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<div align="center">
+  <h3>🔗 Connect with me</h3>
 
-- 💼 Software Engineer with **4+ years of experience at TCS**
-- ☁️ Experienced in **Oracle Cloud Infrastructure (OCI)**, **WebLogic**, **Linux**, and Enterprise Middleware
-- 🚀 Transitioning into **Product Engineering**
-- 🌱 Currently mastering **MERN Stack**, **System Design**, and **Distributed Systems**
-- 📚 Solving Data Structures & Algorithms using **Java**
-- 🎯 Targeting Product-Based Companies
+  <a href="https://linkedin.com/in/avijit-pal-7640ab1a1" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/Avijitpal" target="_blank"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://twitter.com/Avijitpal174632" target="_blank"><img src="https://img.shields.io/badge/TWITTER-0d1117?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</div>
 
----
-
-# 💼 Professional Experience
-
-### System Engineer | TCS
-
-- Managed enterprise middleware environments
-- Worked on Oracle SOA Suite and WebLogic Administration
-- Performed deployments and production support
-- Experience with Linux systems and automation
-- Supported mission-critical enterprise applications
-- Exposure to OCI Cloud infrastructure
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Avijitpal&label=Profile%20Views&color=8b949e&style=flat-square"/>
+</div>
 
 ---
-
-# 🛠 Tech Stack
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-
----
-
-## Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
----
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
----
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-
----
-
-## Cloud & Infrastructure
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle)
-![WebLogic](https://img.shields.io/badge/WebLogic-red?style=for-the-badge)
-
----
-
-# 🚀 Featured Projects
-
-## 📍 Smart Map
-
-MERN Stack + JWT + Leaflet
-
-### Features
-
-- Authentication
-- Public & Private Pins
-- Location Search
-- Image Upload
-- Category Filters
-- Interactive Maps
-
-🔗 Live Demo: YOUR_LINK
-
-🔗 Repository: YOUR_REPO
-
----
-
-## 📋 Task Manager
-
-MERN Stack + JWT
-
-### Features
-
-- User Authentication
-- Task CRUD Operations
-- Protected Routes
-- Dashboard
-- REST APIs
-
-🔗 Live Demo: YOUR_LINK
-
-🔗 Repository: YOUR_REPO
-
----
-
-## 🌐 Personal Portfolio
-
-React + Node.js
-
-### Features
-
-- Responsive Design
-- Dynamic Projects
-- Contact Form
-- Modern UI
-
-🔗 Live Demo: YOUR_LINK
-
-🔗 Repository: YOUR_REPO
-
----
-
-# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+## 🚀 About Me
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+Hello, I'm **Avijit Pal** — a Software Engineer bridging the gap between robust enterprise infrastructure and modern, high-scale product engineering. Backed by extensive experience managing mission-critical middleware and cloud environments, I am focused on architecting resilient distributed systems and highly scalable full-stack applications.
+
+**Software Engineer | Enterprise Infrastructure & Middleware Specialist**
+**Full-Stack Product Engineering & Distributed Systems**
+**MERN Stack Architecture • Advanced System Design**
+**Core Problem Solving with Java (Data Structures & Algorithms)**
 
 </div>
 
@@ -166,103 +38,114 @@ React + Node.js
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+## 🛠️ Technical Capabilities
+
+### Core Frontend
+<img src="https://img.shields.io/badge/REACT-0d1117?style=flat&logo=react&logoColor=8b949e" /> &nbsp;
+<img src="https://img.shields.io/badge/REDUX%20TOOLKIT-0d1117?style=flat&logo=redux&logoColor=8b949e" /> &nbsp;
+<img src="https://img.shields.io/badge/JAVASCRIPT%20(ES6+)-0d1117?style=flat&logo=javascript&logoColor=8b949e" /> &nbsp;
+<img src="https://img.shields.io/badge/TAILWIND%20CSS-0d1117?style=flat&logo=tailwindcss&logoColor=8b949e" /> &nbsp;
+<img src="https://img.shields.io/badge/HTML5%20/%20CSS3-0d1117?style=flat&logo=html5&logoColor=8b949e" />
+
+### Backend, Database & Infrastructure
+<img src="https://img.shields.io/badge/NODE.JS-0d1117?style=flat&logo=node.js&logoColor=8b949e" /> &nbsp;
+<img src="https://img.shields.io/badge/EXPRESS.JS-0d1117?style=flat&logo=express&logoColor=8b949e" /> &nbsp;
+<img src="https://img.shields.io/badge/MONGODB-0d1117?style=flat&logo=mongodb&logoColor=8b949e" /> &nbsp;
+<img src="https://img.shields.io/badge/REST%20APIS-0d1117?style=flat&logo=postman&logoColor=8b949e" /> &nbsp;
+<img src="https://img.shields.io/badge/JAVA%20(DSA)-0d1117?style=flat&logo=oracle&logoColor=8b949e" />
+
+### Enterprise & Cloud Systems
+<img src="https://img.shields.io/badge/ORACLE%20CLOUD%20(OCI)-0d1117?style=flat&logo=oracle&logoColor=8b949e" /> &nbsp;
+<img src="https://img.shields.io/badge/WEBLOGIC%20ADMINISTRATION-0d1117?style=flat&logo=oracle&logoColor=8b949e" /> &nbsp;
+<img src="https://img.shields.io/badge/LINUX%20SYSTEMS-0d1117?style=flat&logo=linux&logoColor=8b949e" /> &nbsp;
+<img src="https://img.shields.io/badge/GIT%20/%20GITHUB-0d1117?style=flat&logo=github&logoColor=8b949e" />
 
 </div>
 
 ---
 
-# 🧠 Data Structures & Algorithms
+## 💼 Core Professional Experience
 
-### Current Focus
-
-- Arrays
-- Strings
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
-- Sliding Window
-
-### Language
-
-```java
-Java
-```
-
-Target:
-
-- 500+ LeetCode Problems
-- Product-Based Company Interviews
+### **System Engineer** | Enterprise Infrastructure Systems
+* Specialized in orchestrating and scaling mission-critical web applications, enterprise middleware environments, and Oracle WebLogic architectures.
+* Managed core production lifecycle operations, pipeline execution, and infrastructure support using robust Linux administration and workflow automation.
+* Leveraged Oracle Cloud Infrastructure (OCI) frameworks to ensure architectural resiliency, low-latency node distributions, and steady uptime for enterprise platforms.
 
 ---
 
-# 🏗 System Design Journey
+## 📂 Featured Product Implementations
 
-Currently Learning:
+### 🧠 AI-Powered Technical Interview Coach
+> **An intelligent product evaluation platform engineered to process and grade engineering technical answers in real-time.**
+* **Architecture:** Formulated an optimized database schema to model and store granular session contexts and progress metrics safely across multi-turn sessions.
+* **System Design:** Safely isolated upstream generative models using robust backend error boundaries, context management, and defensive quota configurations.
+* **Tech Stack:** `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Generative AI Extensions`
+* **Links:** [Production Platform](#) `|` [Architecture Repository](https://github.com/Avijitpal)
 
-- Load Balancers
-- Caching
-- Redis
-- API Gateway
-- Message Queues
-- Database Scaling
-- Microservices
-- Distributed Systems
-
----
-
-# 🎯 2026 Goals
-
-- ✅ React
-- ✅ Node.js
-- ✅ Express.js
-- ✅ MongoDB
-- 🔄 Redis
-- 🔄 Docker
-- 🔄 AWS
-- 🔄 Kubernetes
-- 🔄 System Design
-- 🔄 Distributed Systems
+### 📊 Real-Time Automated ATS Analytics Engine
+> **A high-throughput text validation engine engineered to parse candidate data structures and validate format alignment.**
+* **Architecture:** Secured backend communication paths via strict Cross-Origin Resource Sharing (CORS) configurations and rigorous environmental value sandboxing.
+* **Deployment:** Achieved multi-stage continuous deliveries targeting decoupled infrastructure nodes over Vercel and Render cloud instances.
+* **Tech Stack:** `Node.js` • `Express.js` • `React.js` • `REST Systems Architecture`
+* **Links:** [Production Platform](#) `|` [Architecture Repository](https://github.com/Avijitpal)
 
 ---
 
-# 📈 Contribution Graph
+## 🏗️ Systems Engineering & Algorithmic Focus
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-LinkedIn
-</a>
-•
-<a href="YOUR_LEETCODE">
-LeetCode
-</a>
-•
-<a href="YOUR_PORTFOLIO">
-Portfolio
-</a>
-
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 Distributed Systems & Design</h3>
+      <ul>
+        <li><b>Traffic Distribution:</b> Load Balancers, API Gateways</li>
+        <li><b>Caching Latency:</b> Redis Internal State caching</li>
+        <li><b>Data Strategy:</b> Database Partitioning, Scaling & Sharding</li>
+        <li><b>Architectures:</b> Message Queues, Decoupled Microservices</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Data Structures & Algorithms</h3>
+      <ul>
+        <li><b>Core Paradigm:</b> Dynamic Programming, Sliding Window</li>
+        <li><b>Graph Analytics:</b> Trees, BFS, DFS, Linked Lists</li>
+        <li><b>Execution Language:</b> Strong Types via <code>Java</code></li>
+        <li><b>Target Horizon:</b> Mastering 500+ LeetCode challenges</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-### ⭐ Building Today For The Opportunities Of Tomorrow ⭐
+## 📊 Analytics & Engineering Metrics
+
+### Activity Profiles
+<img src="https://github-readme-stats.vercel.app/api?username=Avijitpal&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" height="165px"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avijitpal&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="165px"/>
+
+<br />
+
+### Contribution Velocity
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avijitpal&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&title=ffffff&stroke=0d1117&currStreakNum=ffffff" width="100%" />
+
+<br />
+
+### Activity Map
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avijitpal&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### 🐍 Workflow Grid
+
+```yaml
+# Contribution pipeline animation engine
+status: active
+render: inline
