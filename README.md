@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,50:2575FC,100:00C6FF&text=Avijit%20Pal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# Software Engineer | MERN Stack Developer | Distributed Systems Enthusiast
+# Software Development Engineer | Site Reliability & Infrastructure Engineer
 
-### 4+ Years Enterprise Infrastructure Experience | Building Scalable Web Applications
+### 4+ Years Enterprise Infrastructure Experience | Building Scalable, High-Availability Systems
 
 <p>
 <a href="https://www.linkedin.com/in/avijit-pal-7640ab1a1/">
@@ -28,12 +28,11 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Software Engineer with **4+ years of experience at TCS**
-- ☁️ Experienced in **Oracle Cloud Infrastructure (OCI)**, **WebLogic**, **Linux**, and Enterprise Middleware
-- 🚀 Transitioning into **Product Engineering**
-- 🌱 Currently mastering **MERN Stack**, **System Design**, and **Distributed Systems**
-- 📚 Solving Data Structures & Algorithms using **Java**
-- 🎯 Targeting Product-Based Companies
+- 💼 **4+ years of enterprise engineering experience at TCS** managing high-throughput production infrastructure.
+- ⚙️ Deep expertise in **Linux Systems Administration**, **Python Ops Automation**, **Enterprise Middleware (WebLogic, SOA)**, and **Cloud Infrastructure (OCI)**.
+- 🚀 Strong focus on **Full-Stack Engineering (MERN)**, **Distributed Systems**, and **High-Availability Architecture**.
+- 🛠️ Implementing production-grade **SRE practices**: synthetic monitoring, log triage automation, telemetry, and SLA enforcement.
+- 📚 Solving Data Structures & Algorithms using **Java**.
 
 ---
 
@@ -41,72 +40,77 @@
 
 **System Engineer | Tata Consultancy Services (TCS)**
 
-- Managed enterprise middleware environments (Oracle SOA Suite, WebLogic Administration)
-- Performed deployments and production support for mission-critical applications
-- Linux systems administration and automation scripting
-- Oracle Cloud Infrastructure (OCI) exposure
+- Administered enterprise middleware environments (Oracle SOA Suite, WebLogic Administration) across mission-critical tiers.
+- Led release deployments, patch management, and real-time incident resolution for zero-downtime operations.
+- Developed Linux shell and Python automation scripts for routine host maintenance, log analysis, and system health checks.
+- Provisioned and managed compute resources on Oracle Cloud Infrastructure (OCI).
 
 ---
 
 ## 🛠 Tech Stack
+
+### Cloud, SRE & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![WebLogic](https://img.shields.io/badge/WebLogic-C74634?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Backend & Databases
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
+### Developer Tools & Deployment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Cloud & Infrastructure
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![WebLogic](https://img.shields.io/badge/WebLogic-C74634?style=for-the-badge&logo=oracle&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📍 Smart Map
-**MERN Stack · JWT · Leaflet**
+### 🛡️ SRE & Cloud Operations Automation Suite
+**Linux · Python · Telemetry · Synthetic Probes · SLA Enforcement**
 
-Interactive mapping app with user authentication, public & private pins, location search, image uploads, category filters, and real-time map interactions.
+Production-grade operational tooling designed for incident triage and reliability engineering:
+- **Log SLA Analyzer:** High-throughput regex log triage computing error rates and endpoint latencies.
+- **Resource Monitor:** Automated host health daemon alerting on CPU, RAM, and disk starvation.
+- **Synthetic API Probe:** Network latency decomposition (DNS, TLS, TTFB) and uptime canary monitoring.
+
+🔗 **[Repository](https://github.com/Avijitpal/sre-portfolio)**
+
+---
+
+### 📍 Smart Map Application
+**MERN Stack · JWT · Leaflet.js · REST API**
+
+Interactive spatial mapping application featuring authentication, custom coordinate pins, image uploads, search filtering, and responsive state synchronization.
 
 🔗 **[Live Demo](https://portfolio-tau-dun-gnnhaw3dmc.vercel.app/)** &nbsp;|&nbsp; 🔗 **[Repository](https://github.com/Avijitpal/smart-map)**
 
-### 📋 Task Manager
-**MERN Stack · JWT · REST API**
+---
 
-Full-stack task management with secure authentication, full CRUD operations, protected routes, and a personal dashboard.
+### 📋 Full-Stack Task Manager
+**MERN Stack · Redux · JWT · Express**
+
+CRUD task management dashboard with route protection, session control, and structured API error handling.
 
 🔗 **[Live Demo](https://portfolio-tau-dun-gnnhaw3dmc.vercel.app/)** &nbsp;|&nbsp; 🔗 **[Repository](https://github.com/Avijitpal/task-manager)**
-
-### 🌐 Personal Portfolio
-**React · Node.js**
-
-Responsive developer portfolio with dynamic project listing, a working contact form, and modern UI design.
-
-🔗 **[Live Demo](https://portfolio-tau-dun-gnnhaw3dmc.vercel.app/)** &nbsp;|&nbsp; 🔗 **[Repository](https://github.com/Avijitpal/portfolio)**
 
 ---
 
@@ -145,6 +149,6 @@ Responsive developer portfolio with dynamic project listing, a working contact f
 
 <div align="center">
 
-### ⭐ Building Today For The Opportunities Of Tomorrow ⭐
+### ⭐ Building Resilient, High-Performance Systems ⭐
 
 </div>
